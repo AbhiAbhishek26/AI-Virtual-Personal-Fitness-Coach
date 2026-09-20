@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# Temporary workout data
+current_workout.json
+current_workout.json.tmp
+
+# IDE
+.vscode/
+
+# Environment / secrets
+.env
+*.env
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
